@@ -1,0 +1,1 @@
+Lihat file scan.sh untuk petunjuk penggunaan.
